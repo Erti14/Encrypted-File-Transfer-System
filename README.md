@@ -11,8 +11,6 @@ This project demonstrates a practical approach to secure file handling, using RS
 
 ---
 
----
-
 ## Requirements
 Install the required dependencies before running the scripts:
 pip install cryptography
